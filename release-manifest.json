@@ -1,0 +1,19 @@
+{
+  "version": "2.0.0-rc.7",
+  "repository": "slbb1995/slbb-dydy-skill",
+  "skill_directory": "skills/通用抖音调研-口播文案转写",
+  "files": {
+    "skills/通用抖音调研-口播文案转写/SKILL.md": "85fae476781eeab4528e372e0d4c69e451db774be5d371281772325577657b8c",
+    "skills/通用抖音调研-口播文案转写/references/deep-analysis.md": "97d21081da84366ba3b2fc86353550b2b6a1ccebc270fac002d2531b2c1b89cc",
+    "skills/通用抖音调研-口播文案转写/references/evidence-and-tools.md": "66a987f018db41ce564708453b05f48b2fa6dac57f34ee2b966a1874152db464",
+    "skills/通用抖音调研-口播文案转写/references/feishu-save.md": "8e29d9f55f514e8e2fe884e59131bb2628076560c04f5c794d5b6196c34aab2a",
+    "skills/通用抖音调研-口播文案转写/references/intake-and-keyword-routing.md": "470b515e5fbcc28c89081c530d59f405dd44b1a349571165e1928f767cdc7ac4",
+    "skills/通用抖音调研-口播文案转写/references/video-type-standards.md": "18fea1af82be7347c7d672d8ec0e720d97a6c3dae5532459f9c76152da6f9600",
+    "skills/通用抖音调研-口播文案转写/scripts/check_candidates.py": "c3c50f6625feff894fbb81edcbc1d7524b5f65e7e18b62eca244faf0f5bf562c",
+    "skills/通用抖音调研-口播文案转写/scripts/render_asr.py": "1d81049253a5b3c78faa26a6fe218cdbed4fdebaa2c9a4dc36229df59e15bfc0"
+  },
+  "asset": {
+    "name": "通用抖音调研-v2.0.0-rc.7.zip",
+    "sha256": "04c62a136021a8595624df08df0c06504ab3c428901079c73287dcd2fbddfca4"
+  }
+}

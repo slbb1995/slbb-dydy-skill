@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.DS_Store
+.env
+.env.*
+!.env.example
+*.zip
+.base-memory.json
+.state/
+.local/
+workspace/
+outputs/
