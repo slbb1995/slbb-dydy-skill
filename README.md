@@ -2,7 +2,7 @@
 
 让还没有选题的客户，从“行业＋内容类型”开始，找到真实视频参考，再把选中的方向落实成自己的拍摄脚本。
 
-**当前使用版本：2.0.0-rc.7。** [下载 Skill ZIP](https://github.com/slbb1995/slbb-dydy-skill/releases/download/v2.0.0-rc.7/%E9%80%9A%E7%94%A8%E6%8A%96%E9%9F%B3%E8%B0%83%E7%A0%94-v2.0.0-rc.7.zip) · [版本页面](https://github.com/slbb1995/slbb-dydy-skill/releases/tag/v2.0.0-rc.7)
+**当前使用版本：2.0.0-rc.7。** [下载 Skill ZIP](https://github.com/slbb1995/slbb-dydy-skill/releases/download/v2.0.0-rc.7/slbb-dydy-skill-v2.0.0-rc.7.zip) · [版本页面](https://github.com/slbb1995/slbb-dydy-skill/releases/tag/v2.0.0-rc.7)
 
 ## 一条完整路径
 
