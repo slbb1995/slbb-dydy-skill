@@ -1,0 +1,260 @@
+[
+  {
+    "name": "视频标题",
+    "style": {
+      "type": "plain"
+    },
+    "type": "text"
+  },
+  {
+    "name": "视频链接",
+    "style": {
+      "type": "url"
+    },
+    "type": "text"
+  },
+  {
+    "name": "视频ID",
+    "style": {
+      "type": "plain"
+    },
+    "type": "text"
+  },
+  {
+    "name": "作者",
+    "style": {
+      "type": "plain"
+    },
+    "type": "text"
+  },
+  {
+    "name": "发布时间",
+    "style": {
+      "format": "yyyy-MM-dd HH:mm"
+    },
+    "type": "datetime"
+  },
+  {
+    "name": "点赞",
+    "style": {
+      "percentage": false,
+      "precision": 0,
+      "thousands_separator": false,
+      "type": "plain"
+    },
+    "type": "number"
+  },
+  {
+    "name": "评论",
+    "style": {
+      "percentage": false,
+      "precision": 0,
+      "thousands_separator": false,
+      "type": "plain"
+    },
+    "type": "number"
+  },
+  {
+    "name": "收藏",
+    "style": {
+      "percentage": false,
+      "precision": 0,
+      "thousands_separator": false,
+      "type": "plain"
+    },
+    "type": "number"
+  },
+  {
+    "name": "分享",
+    "style": {
+      "percentage": false,
+      "precision": 0,
+      "thousands_separator": false,
+      "type": "plain"
+    },
+    "type": "number"
+  },
+  {
+    "name": "调研主题/行业",
+    "style": {
+      "type": "plain"
+    },
+    "type": "text"
+  },
+  {
+    "multiple": false,
+    "name": "视频类型",
+    "options": [
+      {
+        "hue": "Red",
+        "lightness": "Lighter",
+        "name": "获客类"
+      },
+      {
+        "hue": "Purple",
+        "lightness": "Lighter",
+        "name": "AI视频类"
+      },
+      {
+        "hue": "Orange",
+        "lightness": "Lighter",
+        "name": "广告类"
+      },
+      {
+        "hue": "Blue",
+        "lightness": "Lighter",
+        "name": "口播类"
+      },
+      {
+        "hue": "Turquoise",
+        "lightness": "Lighter",
+        "name": "IP类"
+      },
+      {
+        "hue": "Green",
+        "lightness": "Lighter",
+        "name": "知识干货类"
+      },
+      {
+        "hue": "Yellow",
+        "lightness": "Lighter",
+        "name": "种草测评类"
+      },
+      {
+        "hue": "Gray",
+        "lightness": "Lighter",
+        "name": "剧情娱乐类"
+      }
+    ],
+    "type": "select"
+  },
+  {
+    "name": "命中门槛",
+    "style": {
+      "type": "plain"
+    },
+    "type": "text"
+  },
+  {
+    "name": "内容证据",
+    "style": {
+      "type": "plain"
+    },
+    "type": "text"
+  },
+  {
+    "name": "来源关键词",
+    "style": {
+      "type": "plain"
+    },
+    "type": "text"
+  },
+  {
+    "multiple": false,
+    "name": "时间窗",
+    "options": [
+      {
+        "hue": "Green",
+        "lightness": "Lighter",
+        "name": "优先"
+      },
+      {
+        "hue": "Orange",
+        "lightness": "Lighter",
+        "name": "放宽"
+      },
+      {
+        "hue": "Gray",
+        "lightness": "Lighter",
+        "name": "自定义"
+      }
+    ],
+    "type": "select"
+  },
+  {
+    "name": "调研日期",
+    "style": {
+      "format": "yyyy-MM-dd"
+    },
+    "type": "datetime"
+  },
+  {
+    "name": "备注",
+    "style": {
+      "type": "plain"
+    },
+    "type": "text"
+  },
+  {
+    "name": "口播文案",
+    "style": {
+      "type": "plain"
+    },
+    "type": "text"
+  },
+  {
+    "name": "口播时长(秒)",
+    "style": {
+      "percentage": false,
+      "precision": 0,
+      "thousands_separator": false,
+      "type": "plain"
+    },
+    "type": "number"
+  },
+  {
+    "multiple": false,
+    "name": "有无口播",
+    "options": [
+      {
+        "hue": "Green",
+        "lightness": "Lighter",
+        "name": "有"
+      },
+      {
+        "hue": "Gray",
+        "lightness": "Lighter",
+        "name": "无"
+      }
+    ],
+    "type": "select"
+  },
+  {
+    "name": "有效咨询用户数",
+    "style": {
+      "percentage": false,
+      "precision": 0,
+      "thousands_separator": false,
+      "type": "plain"
+    },
+    "type": "number"
+  },
+  {
+    "name": "钩子/留资证据",
+    "style": {
+      "type": "plain"
+    },
+    "type": "text"
+  },
+  {
+    "name": "互动围绕内容证据",
+    "style": {
+      "type": "plain"
+    },
+    "type": "text"
+  },
+  {
+    "name": "产品/品牌表达",
+    "style": {
+      "type": "plain"
+    },
+    "type": "text"
+  },
+  {
+    "name": "体验/选购依据",
+    "style": {
+      "type": "plain"
+    },
+    "type": "text"
+  }
+]

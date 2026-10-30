@@ -1,20 +1,21 @@
 {
-  "version": "2.0.0-rc.8",
+  "version": "2.0.0-rc.9",
   "repository": "slbb1995/slbb-dydy-skill",
   "skill_directory": "skills/通用抖音调研-口播文案转写",
   "files": {
-    "skills/通用抖音调研-口播文案转写/SKILL.md": "dd51cbb6343c75bdeb944f3bec127c693df1c06e93958a3876e742b296889194",
-    "skills/通用抖音调研-口播文案转写/references/deep-analysis.md": "52dea6cce28669e3ac603b5bf828c9acbf9afd411a4ad8f2c04837888cc9f7a9",
+    "skills/通用抖音调研-口播文案转写/SKILL.md": "198497aabaacce3d2d138591df28ac4f6163336309ee13eed54f56f8b4c4d18f",
+    "skills/通用抖音调研-口播文案转写/references/base-schema.json": "258d3695d930c402457fa6d73d3263c812dfe641eaed3a1caeed457a6a201eb7",
+    "skills/通用抖音调研-口播文案转写/references/deep-analysis.md": "5c74572add20b0513885df5bc1aa058f5932404f763c6b657b0dda2bc5a72205",
     "skills/通用抖音调研-口播文案转写/references/evidence-and-tools.md": "4f90fd74bc107c36e0c6a1e83e94786827177fb1df227baab26b42d0b2217ef1",
-    "skills/通用抖音调研-口播文案转写/references/feishu-save.md": "0698e93329c61c7d0c89f40d7d3fcaa3143be42c0ffb7eed43ad517d84b3b5aa",
-    "skills/通用抖音调研-口播文案转写/references/intake-and-keyword-routing.md": "68c0ddb3d35fa1d8c34c9f3957046eab0324d04873839017acb2a5eabd3cee57",
+    "skills/通用抖音调研-口播文案转写/references/feishu-save.md": "fbd29724ad1f35f0d9dd2d11cddf3ab5557989d6f12336e03678ba189fbb02cc",
+    "skills/通用抖音调研-口播文案转写/references/intake-and-keyword-routing.md": "1769fffdf1277c68bbfe9b01cb5e5256ea01980d49cc274c800ce4d4f8ceb8c1",
     "skills/通用抖音调研-口播文案转写/references/video-type-standards.md": "18fea1af82be7347c7d672d8ec0e720d97a6c3dae5532459f9c76152da6f9600",
     "skills/通用抖音调研-口播文案转写/scripts/check_candidates.py": "c3c50f6625feff894fbb81edcbc1d7524b5f65e7e18b62eca244faf0f5bf562c",
     "skills/通用抖音调研-口播文案转写/scripts/render_asr.py": "1d81049253a5b3c78faa26a6fe218cdbed4fdebaa2c9a4dc36229df59e15bfc0"
   },
   "asset": {
     "name": "slbb-dydy-V2.0.zip",
-    "sha256": "28d32ec318c376ec55af7156568da1425d54b833503c89cddc518d0eb6aef229",
+    "sha256": "db84ec9be4b23a7db53fd09b856af5fc4b4b6d818280393379dfc3ab5f1d90a2",
     "display_name": "通用抖音调研-V2.0.zip"
   }
 }
