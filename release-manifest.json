@@ -13,7 +13,8 @@
     "skills/通用抖音调研-口播文案转写/scripts/render_asr.py": "1d81049253a5b3c78faa26a6fe218cdbed4fdebaa2c9a4dc36229df59e15bfc0"
   },
   "asset": {
-    "name": "slbb-dydy-skill-v2.0.0-rc.7.zip",
-    "sha256": "04c62a136021a8595624df08df0c06504ab3c428901079c73287dcd2fbddfca4"
+    "name": "slbb-dydy-V2.0.zip",
+    "sha256": "04c62a136021a8595624df08df0c06504ab3c428901079c73287dcd2fbddfca4",
+    "display_name": "通用抖音调研-V2.0.zip"
   }
 }

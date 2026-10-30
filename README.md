@@ -2,7 +2,7 @@
 
 让还没有选题的客户，从“行业＋内容类型”开始，找到真实视频参考，再把选中的方向落实成自己的拍摄脚本。
 
-**当前使用版本：2.0.0-rc.7。** [下载 Skill ZIP](https://github.com/slbb1995/slbb-dydy-skill/releases/download/v2.0.0-rc.7/slbb-dydy-skill-v2.0.0-rc.7.zip) · [版本页面](https://github.com/slbb1995/slbb-dydy-skill/releases/tag/v2.0.0-rc.7)
+**当前使用版本：2.0.0-rc.7。** [下载「通用抖音调研-V2.0」安装包](https://github.com/slbb1995/slbb-dydy-skill/releases/download/v2.0.0-rc.7/slbb-dydy-V2.0.zip) · [版本页面](https://github.com/slbb1995/slbb-dydy-skill/releases/tag/v2.0.0-rc.7)
 
 ## 一条完整路径
 
